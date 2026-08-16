@@ -1,5 +1,5 @@
-# 💫 About Me:
-i am currently in 3rd year computer science and engineering student   i am software developer  currently studing on aiml projects
+Hi I am Pooja,
+I am currently in 3rd year computer science and engineering student .I am software developer  currently studing on aiml projects
 
 
 ## 🌐 Socials:
