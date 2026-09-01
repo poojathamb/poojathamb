@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hi there, I'm Pooja! 👋
+# 🌻 Hi there, I'm Pooja! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Pooja+%F0%9F%91%8B;3rd+Year+CS+Student+%F0%9F%93%9A;Exploring+Open+Source+%F0%9F%8C%B8;Always+learning+something+new+%E2%9C%A8)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🌸 About Me
+## ❄️ About Me
 
 - 🎓 3rd year **Computer Science** student
 - 🌱 Learning and building across web development, data science, and databases
@@ -79,8 +79,7 @@
 <p>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a>
 <a href="mailto:poojathamb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-FFD1DC?style=for-the-badge&logo=x&logoColor=6D214F" /></a>
-</p>
+
 
 ---
 
