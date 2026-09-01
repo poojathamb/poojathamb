@@ -2,7 +2,7 @@
 
 # 🌸 Hi there, I'm Pooja! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=600&height=50&lines=Hello%2C+my+name+is+Pooja+%F0%9F%91%8B;Exploring+Open+Source+%F0%9F%8C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=600&height=50&lines=Hey!%2C+my+name+is+Pooja+%F0%9F%91%8B;Exploring+Open+Source+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@
 - 🔭 Looking forward to exploring and contributing to **open-source** projects
 - 🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions
 - 💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: poojathamb@gmail.com
 
 ---
 
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
 
@@ -66,11 +66,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=poojathamb&theme=juicyfresh&no-frame=true&row=1&column=6&margin-w=10" />
-</div>
 
 ---
 
