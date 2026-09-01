@@ -58,7 +58,7 @@
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojathamb&layout=compact&hide_border=true&title_color=C2185B&text_color=6D214F&bg_color=FFF0F5" width="38%" />
+
 
 <img src="https://streak-stats.demolab.com/?user=poojathamb&hide_border=true&background=FFF0F5&ring=FF69B4&fire=C2185B&currStreakLabel=C2185B" width="60%" />
 
