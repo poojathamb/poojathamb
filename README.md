@@ -32,7 +32,7 @@
 **Web Development**
 <p>
 <img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css3&logoColor=6D214F" />
+<img src="https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css&logoColor=6D214F" />
 <img src="https://img.shields.io/badge/Flask-FFD1DC?style=for-the-badge&logo=flask&logoColor=6D214F" />
 </p>
 
