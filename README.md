@@ -15,7 +15,7 @@
 - 🔭 Looking forward to exploring and contributing to **open-source** projects
 - 🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions
 - 💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: poojathamb@gmail.com
 
 ---
 
@@ -78,7 +78,7 @@
 
 <p>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a>
+<a href="mailto:poojathamb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a>
 <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-FFD1DC?style=for-the-badge&logo=x&logoColor=6D214F" /></a>
 </p>
 
