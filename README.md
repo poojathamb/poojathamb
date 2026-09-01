@@ -71,10 +71,7 @@
 
 ## 🤝 Let's Connect
 
-<p>
-<a href="[[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/pooja-thamb-b58789356/)](https://www.linkedin.com/in/pooja-thamb-b58789356/)"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a>
-<a href="mailto:poojathamb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a> </p>
-
+<p> <a href="https://www.linkedin.com/in/pooja-thamb-b58789356/"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a> <a href="mailto:poojathamb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a> <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-FFD1DC?style=for-the-badge&logo=x&logoColor=6D214F" /></a> </p>
 ---
 
 <div align="center">
