@@ -1,57 +1,86 @@
 <div align="center">
 
-# 🌻 Pooja Thamb 👋
+<!-- ============ RESPONSIVE BANNER (LIGHT/DARK) ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A1F,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:F8BBD0,100:EF93C4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=4A154B&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
+  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18" width="100%">
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=600&height=50&lines=Hey!%2C+my+name+is+Pooja+%F0%9F%91%8B;Exploring+Open+Source+%F0%9F%8C%B8)](https://git.io/typing-svg)
+<!-- ============ TITLE ============ -->
+<h1 align="center">Hey there, I'm <span style="color:#EF93C4">[Pooja]</span> 👋</h1>
+
+<!-- ============ ANIMATED TYPING TEXT ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- ============ SOCIAL / STAT BADGES ============ -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/[poojathamb]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub followers"/>
+  <img src="https://img.shields.io/github/stars/[poojathamb]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub stars"/>
+  <img src="https://komarev.com/ghpvc/?username=[poojathamb]&label=Profile%20Views&style=for-the-badge&color=FF69B4&labelColor=1a1a1a" alt="Profile views"/>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
 </div>
 
----
+<br>
 
-## ⭐️ About Me
+## 💫 About Me
 
-- 🎓 3rd year **Computer Science** student
-- 🌱 Learning and building across web development, data science, and databases
-- 🔭 Looking forward to exploring and contributing to **open-source** projects
-- 🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions
-- 💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy
-- 📫 Reach me at: poojathamb@gmail.com
+<table>
+<tr>
+<td width="65%" valign="top">
 
----
+- 🔭 I'm currently working on **[Project Name]**
+- 🌱 I'm currently learning **[Skill / Technology]**
+- 👯 I'm looking to collaborate on **[Type of Project]**
+- 💬 Ask me about **[Your Expertise / Topics]**
+- 📫 How to reach me: **[your.email@example.com]**
+- ⚡ Fun fact: **[A fun fact about you]**
+- 🎯 Goal for [2026]: **[Your goal here]**
 
-## 💗 Tech Stack
+</td>
+<td width="35%" valign="top" align="center">
+<img src="[YOUR_ABOUT_ME_IMAGE_OR_GIF_URL]" width="100%" alt="About me visual"/>
+</td>
+</tr>
+</table>
 
-**Languages**
-<p> 
-<img src="https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Java-FFD1DC?style=for-the-badge&logo=openjdk&logoColor=6D214F" />
+<div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-FFD1DC?style=for-the-badge&logo=javascript&logoColor=6D214F" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
-**Web Development**
-<p>
-<img src="https://img.shields.io/badge/HTML5-FFD1DC?style=for-the-badge&logo=html5&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/CSS3-FFD1DC?style=for-the-badge&logo=css&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Flask-FFD1DC?style=for-the-badge&logo=flask&logoColor=6D214F" />
-</p>
+## 🛠️ Tech Stack
 
-**Data Science & ML**
-<p>
-<img src="https://img.shields.io/badge/NumPy-FFD1DC?style=for-the-badge&logo=numpy&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Pandas-FFD1DC?style=for-the-badge&logo=pandas&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Matplotlib-FFD1DC?style=for-the-badge&logo=plotly&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/scikit--learn-FFD1DC?style=for-the-badge&logo=scikitlearn&logoColor=6D214F" />
-</p>
+<br>
 
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/MySQL-FFD1DC?style=for-the-badge&logo=mysql&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Oracle-FFD1DC?style=for-the-badge&logo=oracle&logoColor=6D214F" />
-<img src="https://img.shields.io/badge/Supabase-FFD1DC?style=for-the-badge&logo=supabase&logoColor=6D214F" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,git,github,figma,docker,aws,linux,vscode&theme=light" alt="Tech Stack"/>
 
----
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
+
+## 📊 GitHub Stats
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=[poojathamb]&theme=default&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub Streak Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=[poojathamb]&show_icons=true&hide_border=true&theme=default&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=F8BBD0" alt="GitHub Stats" width="48%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=[poojathamb]&theme=react-dark&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph" width="97%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
 ## 🐍 Contribution Snake
 
@@ -68,7 +97,7 @@
 <details>
 <summary>⚙️ GitHub Action used to generate this snake (click to expand)</summary>
 
-yaml
+```yaml
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 
@@ -101,39 +130,34 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+```
 
 </details>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
-## 📊 GitHub Status
+## 🤝 Connect With Me
 
-<div align="center">
+<br>
 
+<p align="center">
+  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/[your-instagram]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:[your.email@example.com]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
+<br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer" width="100%" alt="Footer wave">
 
-<img src="https://streak-stats.demolab.com/?user=poojathamb&hide_border=true&background=FFF0F5&ring=FF69B4&fire=C2185B&currStreakLabel=C2185B" width="60%" />
-
-</div>
-
----
-
-
----
-
-## 🤝 Let's Connect
-
-<p> <a href="https://www.linkedin.com/in/pooja-thamb-b58789356/"><img src="https://img.shields.io/badge/LinkedIn-FFD1DC?style=for-the-badge&logo=linkedin&logoColor=6D214F" /></a>
-<a href="mailto:poojathamb@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD1DC?style=for-the-badge&logo=gmail&logoColor=6D214F" /></a>  </p>
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=poojathamb&label=Profile+Views&color=FFB6C1&style=for-the-badge)
-
-<i>✨ "Still learning, still growing, still open-sourcing." ✨</i>
+<sub>✨ Thanks for stopping by — feel free to explore my pinned repositories below! ✨</sub>
 
 </div>
