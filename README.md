@@ -11,11 +11,6 @@
 <h1 align="center">Hey there, I'm <span style="color:#EF93C4">[Pooja]</span> 👋</h1>
 
 <!-- ============ ANIMATED TYPING TEXT ============ -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=EF93C4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-
-<br>
 
 <!-- ============ SOCIAL / STAT BADGES ============ -->
 <p align="center">
