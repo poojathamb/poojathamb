@@ -82,9 +82,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[poojathamb]/[poojathamb]/output/pink-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[poojathamb]/[poojathamb]/output/pink-snake.svg">
-  <img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/[poojathamb]/[poojathamb]/output/pink-snake.svg" width="97%">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/poojathamb/poojathamb/output/pink-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/poojathamb/poojathamb/output/pink-snake.svg">
+<img alt="Contribution Snake animation" src="https://raw.githubusercontent.com/poojathamb/poojathamb/output/pink-snake.svg" width="97%">
 </picture>
 
 <br><br>
