@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌻 Hi there, I'm Pooja! 👋
+# 🌻 Pooja Thamb 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=26&duration=3000&pause=1000&color=C2185B&center=true&vCenter=true&width=600&height=50&lines=Hey!%2C+my+name+is+Pooja+%F0%9F%91%8B;Exploring+Open+Source+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
