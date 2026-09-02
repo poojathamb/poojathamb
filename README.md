@@ -68,7 +68,7 @@
 <details>
 <summary>⚙️ GitHub Action used to generate this snake (click to expand)</summary>
 
-```yaml
+yaml
 # .github/workflows/snake.yml
 name: Generate Snake Animation
 
@@ -101,7 +101,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+
 
 </details>
 
