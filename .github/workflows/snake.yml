@@ -18,7 +18,7 @@ jobs:
       - name: Generate pink-themed snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: [poojathamb]
+          github_user_name: poojathamb
           outputs: |
             dist/pink-snake.svg
             dist/pink-snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=F8BBD0,F8BBD0,EF93C4,EF93C4,FF69B4
