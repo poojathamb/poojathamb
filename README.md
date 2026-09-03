@@ -23,9 +23,6 @@
 <br>
 <br>
 
-
-
-
 <!-- ============ ABOUT ME ============ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
@@ -34,51 +31,37 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td>
-
-```python
-# ─────────────────────────────────────────────
-# 💗 About Me
-# ─────────────────────────────────────────────
-
-class Pooja:
-
-    role = "3rd Year Computer Science Student"
-
-    learning = [
-        "Web Development",
-        "Data Science",
-        "Databases"
-    ]
-
-    exploring = [
-        "Open Source",
-        "AI / ML",
-        "Data Analysis"
-    ]
-
-    looking_for = "Beginner-friendly open-source issues"
-
-    skills = [
-        "Python",
-        "Flask",
-        "Pandas",
-        "NumPy"
-    ]
-
-    contact = "poojathamb@gmail.com"
-
-    motto = """
-    Always curious.
-    Always learning.
-    Always building. 💗
-    """
-
-
-
 <div align="center">
+
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│  01  🎓  3rd year Computer Science student                  │
+│                                                              │
+│  02  🌱  Learning & building across                         │
+│          Web Development • Data Science • Databases         │
+│                                                              │
+│  03  🔭  Exploring & contributing to                         │
+│          Open-Source Projects                               │
+│                                                              │
+│  04  🤝  Looking for beginner-friendly issues               │
+│          to make my first & next contributions               │
+│                                                              │
+│  05  💻  Ask me about Python • Flask • Pandas • NumPy       │
+│                                                              │
+│  06  📫  Reach me at: poojathamb@gmail.com                  │
+│                                                              │
+│  07  💗  // Always curious. Always learning.                │
+│          // Always building.                                │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+
+
+
+   
+
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
