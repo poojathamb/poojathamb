@@ -7,12 +7,7 @@
   <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18" width="100%">
 </picture>
 
-<!-- ============ TITLE ============ -->
-<h1 align="center">Hello, my name is <span style="color:#EF93C4">Pooja</span> 👋</h1>
 
-<!-- ============ ANIMATED TYPING TEXT ============ -->
-
-<!-- ============ SOCIAL / STAT BADGES ============ -->
 <table>
 <tr>
 <td width="65%" valign="middle">
