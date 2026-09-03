@@ -2,8 +2,8 @@
 
 <!-- ============ RESPONSIVE BANNER (LIGHT/DARK) ============ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A1F,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,50:F8BBD0,100:EF93C4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=4A154B&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,50:F8BBD0,100:EF93C4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=4A154B&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18">
   <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18" width="100%">
 </picture>
 
@@ -13,17 +13,22 @@
 <!-- ============ ANIMATED TYPING TEXT ============ -->
 
 <!-- ============ SOCIAL / STAT BADGES ============ -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/[poojathamb]?label=Followers&style=for-the-badge&color=EF93C4&labelColor=1a1a1a" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/[poojathamb]?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=1a1a1a" alt="GitHub stars"/>
-  <img src="https://komarev.com/ghpvc/?username=[poojathamb]&label=Profile%20Views&style=for-the-badge&color=FF69B4&labelColor=1a1a1a" alt="Profile views"/>
-</p>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-<br>
+<h1>Hey there, I'm <span style="color:#EF93C4">[Pooja]</span> 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+</a>
 
-</div>
+</td>
+<td width="35%" align="center">
+<img src="[YOUR_CAT_GIF_URL]" width="100%" alt="Cat gif"/>
+</td>
+</tr>
+</table>
 
 <br>
 
