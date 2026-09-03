@@ -8,7 +8,7 @@
 </picture>
 
 
-<img align="right" src="assets/C:\Users\HP\Downloads\cat.mp4"width="300" alt="cat gif"/>
+<img align="right" src="C:\Users\HP\Downloads\cat.mp4" width="300" alt="cat gif"/>
 
 # Hey there, I'm Pooja 👋
 
