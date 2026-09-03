@@ -65,17 +65,14 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
 <br>
+<br>
+
 
 ## 📊 GitHub Status
 
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=poojathamb&theme=default&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub Streak Stats" width="48%"/>
-
-
-<br><br>
-
-
 
 <br><br>
 
