@@ -58,16 +58,14 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,python,git,github,flask,numpy,matploatlib,mysql,java,vscode&theme=light" alt="Tech Stack"/>
 
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
 ## 📊 GitHub Status
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=[poojathamb]&theme=default&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub Streak Stats" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=[poojathamb]&show_icons=true&hide_border=true&theme=default&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=F8BBD0" alt="GitHub Stats" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=poojathamb&theme=default&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=EF93C4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=F8BBD0" alt="GitHub Streak Stats" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poojathamb&show_icons=true&hide_border=true&theme=default&bg_color=0D1117&title_color=EF93C4&icon_color=FF69B4&text_color=FFFFFF&ring_color=F8BBD0" alt="GitHub Stats" width="48%"/>
 
 <br><br>
 
