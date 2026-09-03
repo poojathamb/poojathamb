@@ -95,6 +95,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer" width="100%" alt="Footer wave">
 
-<sub>✨ Thanks for stopping by — feel free to explore my pinned repositories below! ✨</sub>
+<sub>🌸 <i>Creating, learning, and growing — one line of code at a time.</i></sub>
 
 </div>
