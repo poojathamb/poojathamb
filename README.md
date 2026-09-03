@@ -57,6 +57,7 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,mongodb,python,git,github,flask,numpy,matploatlib,mysql,java,vscode&theme=light" alt="Tech Stack"/>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
