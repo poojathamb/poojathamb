@@ -1,11 +1,7 @@
 <div align="center">
 
 <!-- ============ RESPONSIVE BANNER (LIGHT/DARK) ============ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:BE185D,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20and%20passions&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFD1E8,50:F8BBD0,100:EF93C4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=4A154B&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20and%20passions&descAlignY=58&descSize=18">
-  <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20and%20passions&descAlignY=58&descSize=18" width="100%">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=header" width="100%" alt="Header wave">
 <br>
 
 <img align="right" src="assets/cat.gif" width="300" alt="cat gif"/>
