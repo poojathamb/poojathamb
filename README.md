@@ -8,27 +8,24 @@
 </picture>
 
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+<img align="right" src="assets/cat.gif" width="300" alt="cat gif"/>
 
-<h1>Hey there, I'm <span style="color:#EF93C4">[Pooja]</span> 👋</h1>
+# Hey there, I'm Pooja 👋
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 </a>
 
-</td>
-<td width="35%" align="center">
-<img src="[YOUR_CAT_GIF_URL]" width="100%" alt="Cat gif"/>
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 <br>
 <br>
+
+
+
+
 ## 💫 About Me
 
 <table>
