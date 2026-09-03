@@ -7,13 +7,15 @@
   <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18" width="100%">
 </picture>
 
+<br>
+
 <img align="right" src="assets/cat.gif" width="300" alt="cat gif"/>
 
-# Hey there, I'm Pooja 👋
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=2500&pause=100000&color=EF93C4&center=false&vCenter=true&repeat=false&width=500&height=60&lines=Hey+there%2C+I'm+Pooja+%F0%9F%91%8B" alt="Pooja"/>
 
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=false&repeat=true&width=450&height=40&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
+
+<br clear="right"/>
 
 
 
