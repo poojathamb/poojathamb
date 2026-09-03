@@ -6,7 +6,7 @@
 
 <img align="right" src="assets/cat.gif" width="300" alt="cat gif"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=2500&pause=100000&color=EF93C4&center=false&vCenter=true&repeat=false&width=500&height=60&lines=Hey+there%2C+I'm+Pooja+%F0%9F%91%8B" alt="Pooja"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=2500&pause=100000&color=EF93C4&center=false&vCenter=true&repeat=false&width=500&height=60&lines=Hello%2C+my+name+is+Pooja+%F0%9F%91%8B" alt="Pooja"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=false&repeat=true&width=450&height=40&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG" />
 
@@ -95,6 +95,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=footer" width="100%" alt="Footer wave">
 
-<sub>🌸 <i>Creating, learning, and growing — one line of code at a time.</i></sub>
+<sub>🌸Creating, learning, and growing — one line of code at a time.</sub>
 
 </div>
