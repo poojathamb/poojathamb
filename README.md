@@ -3,7 +3,6 @@
 <!-- ============ RESPONSIVE BANNER (LIGHT/DARK) ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=header" width="100%" alt="Header wave">
 <br>
-
 <img align="right" src="assets/hacker_cat.gif" width="300" alt="cat gif"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=2500&pause=100000&color=ffffff&center=false&vCenter=true&repeat=false&width=600&height=60&letterSpacing=-1px&lines=Hello%2C+my+name+is+Pooja+%F0%9F%91%8B" alt="Hello, my name is Pooja"/>
@@ -11,6 +10,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=EF93C4&center=false&vCenter=true&multiline=false&repeat=true&width=450&height=40&lines=Problem+Solver+%F0%9F%A7%A9;Open+Source+Explorer+%F0%9F%8C%B1;Turning+Coffee+into+Code+%E2%98%95" alt="Typing SVG"/>
 
 <br clear="right"/>
+
+
 
 <br>
 
