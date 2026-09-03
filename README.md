@@ -75,7 +75,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[poojathamb]&theme=react-dark&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true" alt="GitHub Activity Graph" width="97%"/>
+
 
 <br><br>
 
