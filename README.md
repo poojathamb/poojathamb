@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=150&section=header" width="100%" alt="Header wave">
 <br>
 
-   <img align="right" src="assets/cartoon_cat.gif" width="300" alt="cat gif"/>
+<img align="right" src="assets/hacker_cat.gif" width="300" alt="cat gif"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=40&duration=2500&pause=100000&color=ffffff&center=false&vCenter=true&repeat=false&width=600&height=60&letterSpacing=-1px&lines=Hello%2C+my+name+is+Pooja+%F0%9F%91%8B" alt="Hello, my name is Pooja"/>
 
