@@ -7,8 +7,7 @@
   <img alt="Profile banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EF93C4,100:FF69B4&height=260&section=header&text=Welcome%20To%20My%20Profile&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Explore%20my%20work%2C%20projects%20%26%20passions&descAlignY=58&descSize=18" width="100%">
 </picture>
 
-
-<img align="right" src="assets/cat.mp4" width="300" alt="cat gif"/>
+<img align="right" src="assets/cat.gif" width="300" alt="cat gif"/>
 
 # Hey there, I'm Pooja 👋
 
