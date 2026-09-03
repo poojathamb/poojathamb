@@ -28,24 +28,17 @@
 
 ## 💫 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
 
-- 🔭 I'm currently working on **[Project Name]**
-- 🌱 I'm currently learning **[Skill / Technology]**
-- 👯 I'm looking to collaborate on **[Type of Project]**
-- 💬 Ask me about **[Your Expertise / Topics]**
-- 📫 How to reach me: **[your.email@example.com]**
-- ⚡ Fun fact: **[A fun fact about you]**
-- 🎯 Goal for [2026]: **[Your goal here]**
 
-</td>
-<td width="35%" valign="top" align="center">
-<img src="[YOUR_ABOUT_ME_IMAGE_OR_GIF_URL]" width="100%" alt="About me visual"/>
-</td>
-</tr>
-</table>
+- 🎓 3rd year **Computer Science** student
+- 🌱 Learning and building across web development, data science, and databases
+- 🔭 Looking forward to exploring and contributing to **open-source** projects
+- 🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions
+- 💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy
+- 📫 Reach me at: poojathamb@gmail.com
+
+
+
 
 <div align="center">
 
