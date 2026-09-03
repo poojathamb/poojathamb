@@ -8,7 +8,7 @@
 </picture>
 
 <!-- ============ TITLE ============ -->
-<h1 align="center">Hey there, I'm <span style="color:#EF93C4">[Pooja]</span> 👋</h1>
+<h1 align="center">Hello, my name is <span style="color:#EF93C4">Pooja</span> 👋</h1>
 
 <!-- ============ ANIMATED TYPING TEXT ============ -->
 
@@ -56,13 +56,13 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,git,github,figma,docker,aws,linux,vscode&theme=light" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,mongodb,python,git,github,flask,numpy,matploatlib,mysql,java,vscode&theme=light" alt="Tech Stack"/>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <br>
 
@@ -89,46 +89,6 @@
 
 <br><br>
 
-<details>
-<summary>⚙️ GitHub Action used to generate this snake (click to expand)</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate pink-themed snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: [poojathamb]
-          outputs: |
-            dist/pink-snake.svg
-            dist/pink-snake-dark.svg?palette=github-dark&color_snake=#FF69B4&color_dots=F8BBD0,F8BBD0,EF93C4,EF93C4,FF69B4
-
-      - name: Push generated files to the "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
@@ -138,13 +98,13 @@ jobs:
 <br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://www.linkedin.com/in/pooja-thamb-b58789356/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/[your-instagram]" target="_blank">
+  <a href="https://www.instagram.com/pooja.thamb/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-F8BBD0?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:[your.email@example.com]" target="_blank">
+  <a href="mailto:poojathamb@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
