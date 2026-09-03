@@ -26,13 +26,14 @@
 ## 💫 About Me
 
 <p align="left">
-🎓 3rd year <b>Computer Science</b> student<br><br>
-🌱 Learning and building across web development, data science, and databases<br><br>
-🔭 Looking forward to exploring and contributing to <b>open-source</b> projects<br><br>
-🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions<br><br>
-💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy<br><br>
+🎓 3rd year <b>Computer Science</b> student<br>
+🌱 Learning and building across web development, data science, and databases<br>
+🔭 Looking forward to exploring and contributing to <b>open-source</b> projects<br>
+🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions<br>
+💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy<br>
 📫 Reach me at: <a href="mailto:poojathamb@gmail.com">poojathamb@gmail.com</a>
 </p>
+
 
 
 
