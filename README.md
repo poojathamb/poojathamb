@@ -12,7 +12,7 @@
 
 <br clear="right"/>
 
-
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
 <br>
