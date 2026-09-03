@@ -23,43 +23,14 @@
 <br>
 <br>
 
-<!-- ============ ABOUT ME ============ -->
+## ⭐️ About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,100:EF93C4&height=3&width=1000" alt="divider">
-
-<h2 align="center">💗 &lt;/&gt; About Me</h2>
-
-<br>
-
-<div align="center">
-
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  01  🎓  3rd year Computer Science student                  │
-│                                                              │
-│  02  🌱  Learning & building across                         │
-│          Web Development • Data Science • Databases         │
-│                                                              │
-│  03  🔭  Exploring & contributing to                         │
-│          Open-Source Projects                               │
-│                                                              │
-│  04  🤝  Looking for beginner-friendly issues               │
-│          to make my first & next contributions               │
-│                                                              │
-│  05  💻  Ask me about Python • Flask • Pandas • NumPy       │
-│                                                              │
-│  06  📫  Reach me at: poojathamb@gmail.com                  │
-│                                                              │
-│  07  💗  // Always curious. Always learning.                │
-│          // Always building.                                │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-
-
-
-   
-
+- 🎓 3rd year **Computer Science** student
+- 🌱 Learning and building across web development, data science, and databases
+- 🔭 Looking forward to exploring and contributing to **open-source** projects
+- 🤝 Actively hunting for beginner-friendly issues to make my first (and next!) contributions
+- 💬 Ask me about Python, Flask, or data analysis with Pandas/NumPy
+- 📫 Reach me at: poojathamb@gmail.com
 
 
 
